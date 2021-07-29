@@ -1,0 +1,5 @@
+name: 'AWS Policy Check'
+description: 'Checks IAM policies.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
